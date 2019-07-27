@@ -1,0 +1,11 @@
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.csprojAssemblyReference.cache
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.csproj.CoreCompileInputs.cache
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.AssemblyInfoInputs.cache
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.AssemblyInfo.cs
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\bin\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.deps.json
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\bin\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.runtimeconfig.json
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\bin\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.runtimeconfig.dev.json
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\bin\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.dll
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\bin\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.pdb
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.dll
+D:\Project\Project code\Project C-sharp Console\Hướng đối tượng\ThucHanh4 Công ty bảo hiểm\ThucHanh4 Công ty bảo hiểm\obj\Debug\netcoreapp2.1\ThucHanh4 Công ty bảo hiểm.pdb
